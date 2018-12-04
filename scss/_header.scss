@@ -5,6 +5,13 @@
   border-bottom: medium none;
 }
 
+.home-section {
+ display: flex;
+ align-items: center;
+ overflow: hidden;
+ max-width: 100%; 
+}
+
 .navbar-inverse .navbar-nav .current {
   background-color: $base-color;
 
