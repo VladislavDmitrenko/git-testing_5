@@ -134,7 +134,8 @@ body {
   -ms-flex-align: center;
   align-items: center;
   overflow: hidden;
-  max-width: 100%; 
+  max-width: 100%;
+  padding: 50px 0; 
 }
 .home-section__title {
   margin: 30px 0;
